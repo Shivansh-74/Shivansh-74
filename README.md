@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">Projects : </h3>
 <h4 align="left">Quiz Application :  <a href="https://quiz-application-by-react.onrender.com/"> Click Here (React + Redux Toolkit)</a></h4>
-<h4 align="left">Food Delivery Website :  <a href="https://food-delivery-zg6b.onrender.com/"> Click Here (React)</a></h4>
+<h4 align="left">Food Delivery Website :  <a href="https://food-delivery-website-xvul.onrender.com/"> Click Here (React)</a></h4>
 <p align="left">
 </p>
 
