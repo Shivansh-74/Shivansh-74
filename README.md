@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivansh Vishwakarma</h1>
-<h3 align="center">Frontend | Backend | fullstack |  React  | Django </h3> 
+<h3 align="center">Frontend | Backend | Springboot |  React  | Django </h3> 
 
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">Projects : </h3>
