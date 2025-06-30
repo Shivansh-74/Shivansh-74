@@ -11,9 +11,8 @@ I am a passionate full-stack developer with experience in building scalable web 
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [linkedin.com/in/shivansh](https://linkedin.com/in/shivansh)
 - GitHub: [github.com/shivansh](https://github.com/shivansh)
-- Email: shivansh@email.com
+- Email: shivanshv438@gmail.com
 
 ---
 
@@ -48,15 +47,6 @@ A responsive food delivery web app built using **React** with dynamic UI and pro
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivansh&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh&theme=radical" alt="streak" />
 </p>
 
 ---
